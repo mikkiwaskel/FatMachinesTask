@@ -1,5 +1,5 @@
 # COFFEE JAM GAME MECHANICS
-# What I did
+# You can read what I did
 # SlidableTrays.cs
 • Added Colliders and Rigidbody to detect physical collision
 
